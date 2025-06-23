@@ -9,22 +9,19 @@ With experience in AI projects, full-stack development, and digital strategy, I 
 ## Connect with Me
 
 <p align="center">
- 
+
+   <a href="https://www.linkedin.com/in/dishant-vaswani-936637313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://medium.com/@dishantvaswani7">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/dishant-vaswani-936637313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
 ---
 
-## Portfolio & Resume
-
-- **Portfolio Website**: [dishants-portfolio-ykm5.onrender.com](https://dishants-portfolio-ykm5.onrender.com)
-- **Download Resume**: [View PDF](https://your-link-to-resume.com)
 
 
 ## Tech Stack
