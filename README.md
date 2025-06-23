@@ -20,7 +20,7 @@ With experience in AI projects, full-stack development, and digital strategy, I 
 </p>
 
 ---
----
+
 
 
 
