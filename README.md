@@ -1,24 +1,20 @@
-<h1 align="center">Hi there, I'm Dishant Vaswani 👋</h1>
+<h1 align="center">Dishant Vaswani</h1>
 <p align="center">
-  <i>Technology & Marketing | Python + Django | Creative Strategy</i>
+  <i>Tech + Marketing | Strategy with Substance</i>
 </p>
 
 ---
 
-## 📌 About Me
+##  About Me
 
-🎓 I'm a tech enthusiast with a sharp eye for strategy and a love for creative problem-solving.  
-💡 With experience in **AI projects, full-stack web development**, and **brand communication**,  
-I enjoy building at the intersection of **code and communication**.
+I’m a computer applications student with a strong interest in both technology and digital strategy. Passionate about building meaningful solutions, I enjoy blending code with creativity to solve real-world problems. I'm committed to continuous learning and driven by a desire to make an impact through collaboration, curiosity, and innovation.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Dishant-V">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
   <a href="https://medium.com/@dishantvaswani7">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
