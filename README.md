@@ -59,9 +59,6 @@ I’m a computer applications student with a strong interest in both technology 
 
 ---
 
-
----
-
 <p align="center">
   Building bridges between logic and creativity.
 </p>
