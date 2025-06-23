@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Dishant Vaswani</h1>
-<p align="center"><i>Technology & Marketing | Python + Django | Creative Strategy</i></p>
-
----
 
 ## About Me
 
