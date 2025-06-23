@@ -9,9 +9,7 @@ With experience in AI projects, full-stack development, and digital strategy, I 
 ## Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Dishant-V">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ 
   <a href="https://medium.com/@dishantvaswani7">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
