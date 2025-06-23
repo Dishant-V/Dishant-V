@@ -19,6 +19,13 @@ With experience in AI projects, full-stack development, and digital strategy, I 
 </p>
 
 ---
+---
+
+## Portfolio & Resume
+
+- **Portfolio Website**: [dishants-portfolio-ykm5.onrender.com](https://dishants-portfolio-ykm5.onrender.com)
+- **Download Resume**: [View PDF](https://your-link-to-resume.com)
+
 
 ## Tech Stack
 
