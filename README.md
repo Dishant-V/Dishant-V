@@ -1,29 +1,23 @@
+#  Hey, I'm Dishant – The bridge between logic & creativity.
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
+### Turning ideas into production-ready solutions with a blend of technology and creativity.  
+**3+ years of tinkering with code & strategies to craft meaningful digital experiences.**
 
-
-## About Me
-
-I’m a computer applications student with a strong interest in both technology and digital strategy. Passionate about building meaningful solutions, I enjoy blending code with creativity to solve real-world problems. I'm committed to continuous learning and driven by a desire to make an impact through collaboration, curiosity, and innovation.
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dishant-vaswani-936637313/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@dishantvaswani7">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-
-</p>
+**Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dishant-V&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
-## Tech Stack
+## 🔹 What I Do
+- Build and deploy scalable **web applications** (Django, Tailwind, Render).
+- Execute **brand strategies & marketing campaigns** for businesses.  
+- Explore **computer vision** & automation solutions using Python + OpenCV.  
+  
 
+---
+
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -37,21 +31,18 @@ I’m a computer applications student with a strong interest in both technology 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project                             | Description                                  | Links |
 |-------------------------------------|----------------------------------------------|--------|
-| Facial Recognition System           | Python + OpenCV app for real-time detection  | [GitHub](https://github.com/Dishant-V/face_recognition) |
-| Altossa Italian Furniture           | Brand strategy for a luxury furniture brand  | [Case Study](https://medium.com/@dishantvaswani7/altossa-italian-furniture-790167d831b6) |
-| The Leela Hyderabad Campaigns       | Marketing execution for hospitality brands   | [Raen](https://medium.com/@dishantvaswani7/raen-the-leela-hyderabad-78a97d403f38), [Adi](https://medium.com/@dishantvaswani7/adi-the-leela-hyderabad-7a40dc7b4f63) |
-| Portfolio Website (Django)          | Deployed site with Tailwind, contact form, dark mode | [Live](https://dishants-portfolio-ykm5.onrender.com) / [Source](https://github.com/Dishant-V/Django-portfolio) |
+| **Facial Recognition System**       | Python + OpenCV app for real-time detection  | [GitHub](https://github.com/Dishant-V/face_recognition) |
+| **Altossa Italian Furniture**       | Brand strategy for a luxury furniture brand  | [Case Study](https://medium.com/@dishantvaswani7/altossa-italian-furniture-790167d831b6) |
+| **The Leela Hyderabad Campaigns**   | Marketing execution for hospitality brands   | [Raen](https://medium.com/@dishantvaswani7/raen-the-leela-hyderabad-78a97d403f38), [Adi](https://medium.com/@dishantvaswani7/adi-the-leela-hyderabad-7a40dc7b4f63) |
+| **Portfolio Website (Django)**      | Tailwind, contact form, dark mode, deployed  | [Live](https://dishants-portfolio-ykm5.onrender.com) / [Source](https://github.com/Dishant-V/Django-portfolio) |
 
 ---
 
-
-
-## GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dishant-V&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant-V&layout=compact&theme=github_dark" height="150"/>
@@ -59,6 +50,16 @@ I’m a computer applications student with a strong interest in both technology 
 
 ---
 
+## 🌐 Connect With Me
 <p align="center">
-  Building bridges between logic and creativity.
+  <a href="https://www.linkedin.com/in/dishant-vaswani-936637313/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@dishantvaswani7">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+<p align="center">✨ Always curious, always building. ✨</p>
