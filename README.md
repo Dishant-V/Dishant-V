@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Dishant — Bridging Logic, Code & Creativity
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e?raw=true" width="200" alt="animated hello">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width="400"/>
 
-### Turning abstract ideas into intelligent, production-ready systems.  
-💡 3+ years of building with **Python**, exploring **AI**, and crafting scalable digital solutions.
+### I build, I learn, and I create — always trying to make technology a little more human.
+**3+ years of tinkering with code & strategies to craft meaningful digital experiences.**
 
-**Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dishant-V&label=Profile%20Views&color=blueviolet&style=flat-square)
+**Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dishant-V&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
@@ -50,14 +50,6 @@
 
 ---
 
-## 🎨 3D Developer Vibes
-
-<div align="center">
-  <img src="https://github.com/Dishant-V/Dishant-V/assets/3d-coder.gif" width="350" alt="3D Developer GIF"/><br>
-  <sub><em>Code is where logic meets imagination.</em></sub>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
