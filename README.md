@@ -53,11 +53,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dishant-V&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant-V&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160"/>
+# 📊 GitHub Stats 
+<div align="center"> 
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Dishant-V&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true" height="160"/> 
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Dishant-V&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160"/> 
 </div>
 
 ---
