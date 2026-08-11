@@ -2,20 +2,23 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" width="400"/>
 
-### I learn, I design, I build — always trying to make technology a little more human.
-**3+ years of tinkering with code & strategies to craft meaningful digital experiences.**
+### I clean, I analyze, I visualize — turning raw datasets into actionable business strategies.
+**0-1 years of experience crafting end-to-end data pipelines and data-driven dashboards.**
+
+
 
 **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Dishant-V&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
 ## ⚡ About Me
-> “Some build for logic, some for art — I build for both.”
+> “Some look at numbers, some look at patterns — I look at both to drive business decisions.”
 
-- 🧠 Exploring **AI**, **LLMs**, and **Computer Vision** to create smart automation systems.  
-- 🏗️ Building full-stack web apps with **Django**, **Tailwind**, and modern deployment pipelines.  
-- 🚀 Constantly tinkering with **OpenCV**, **LangChain**, and **FastAPI** to push ideas into reality.  
-- 🌱 Currently diving deeper into **Generative AI** and **Edge-based inference systems**.  
+- 🧠 Exploring **Advanced SQL**, **Statistical Modeling**, and **Business Intelligence** frameworks.  
+- 🏗️ Building end-to-end extraction and migration pipelines using **Python (SQLAlchemy)** and relational databases.  
+- 🚀 Constantly tinkering with **Power BI**, **Excel (Advanced)**, and **Pandas** to turn complex corporate requirements into sleek visuals.  
+- 🌱 Currently diving deeper into **Data Warehousing**, ETL/ELT workflows, and financial services data.  
+
 
 ---
 
@@ -23,21 +26,30 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,tailwind,html,css,js,opencv,git,github,linux,vscode,render" /><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,excel,powerbi,tableau" />
 
 </div>
 
 ---
 
-## 🧠 Featured AI Projects
+## 📊 Core Technical Competencies
+- **SQL:** Complex Joins, Subqueries, CTEs, Aggregations, Window Functions.
+- **Excel:** Pivot Tables, VLOOKUP/XLOOKUP, INDEX-MATCH, Conditional Formatting.
+- **Python:** Exploratory Data Analysis (EDA) using Pandas, NumPy, and Matplotlib.
+- **Statistics:** Descriptive Statistics, Probability Fundamentals, Correlation, Regression Basics.
+
+---
+
+## 📈 Featured Data Analytics Projects
 
 | Project | Description | Links |
 |----------|--------------|--------|
-| **Facial Recognition System** | Real-time face detection & recognition using OpenCV + Haar cascades | [GitHub](https://github.com/Dishant-V/face_recognition) |
-| **AI Resume Screener (LLM-based)** | Intelligent resume parser and ranker powered by OpenAI APIs | *Coming Soon* |
-| **Portfolio Website (Django)** | Responsive portfolio with Tailwind, dark mode & email automation | [Live](https://dishants-portfolio-ykm5.onrender.com) / [Source](https://github.com/Dishant-V/Django-portfolio) |
-| **Vision-Based Attendance System** | Uses facial embeddings & vector similarity for attendance logging | *WIP* |
+| **Walmart Data Analysis** | End-to-end Python + MySQL pipeline standardizing 10k rows for retail metric tracking. Built with Pandas & SQLAlchemy. | [GitHub](https://github.com/Dishant-V/walmart-sales-sql-python.git) |
+| **Ola Rides Analytics Dashboard** | Full-scale business analytics infrastructure using Excel cleaning, custom SQL views, and a 3-page Power BI dashboard. | [GitHub](https://github.com) |
+| **Financial Risk Screener** | Analytical reporting tool exploring core data validation and data quality checks. | *Coming Soon* |
+| **Automated Data Quality Audit** | Python scripts designed to catch database inconsistencies, anomalies, and missing values. | *WIP* |
+
 
 ---
 
