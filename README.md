@@ -46,8 +46,8 @@
 | Project | Description | Links |
 |----------|--------------|--------|
 | **Walmart Data Analysis** | End-to-end Python + MySQL pipeline standardizing 10k rows for retail metric tracking. Built with Pandas & SQLAlchemy. | [GitHub](https://github.com/Dishant-V/walmart-sales-sql-python.git) |
-| **Ola Rides Analytics Dashboard** | Full-scale business analytics infrastructure using Excel cleaning, custom SQL views, and a 3-page Power BI dashboard. | [GitHub](https://github.com) |
-| **Financial Risk Screener** | Analytical reporting tool exploring core data validation and data quality checks. | *Coming Soon* |
+| **Ola Rides Analytics Dashboard** | Full-scale business analytics infrastructure using Excel cleaning, custom SQL views, and a 3-page Power BI dashboard. | [GitHub](https://github.com/Dishant-V/ola-analytics-sql-powerbi-dashboard.git) |
+| **MySQL Financial Risk EDA** | Enterprise SQL analysis isolating global corporate liabilities, checking boundary constraints, and tracking monthly rolling trends. | [GitHub](https://github.com/Dishant-V/EDA-sql.git) |
 | **Automated Data Quality Audit** | Python scripts designed to catch database inconsistencies, anomalies, and missing values. | *WIP* |
 
 
